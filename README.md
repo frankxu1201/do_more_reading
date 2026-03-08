@@ -2,7 +2,7 @@
 
 *when you need to read...*
 
-A collection of Python scripts for academic research workflows.
+A short Python scripts for academic research workflows.
 
 ---
 
