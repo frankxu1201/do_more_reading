@@ -1,4 +1,4 @@
-# do_more_reading
+# doi-network
 
 *when you need to read...*
 
